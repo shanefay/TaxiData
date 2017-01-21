@@ -1,0 +1,1 @@
+mysqlimport --ignore-lines=1 --fields-terminated-by=, --local -u root -p taxiproject /mnt/usb/taxi_data.csv
